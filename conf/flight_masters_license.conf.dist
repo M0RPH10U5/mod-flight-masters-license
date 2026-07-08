@@ -1,0 +1,96 @@
+##############################################################
+# Copyright (C) 2026 # Flight Master's License # MIT License #
+##############################################################
+
+#############################################
+# Flight Master's License
+# AzerothCore Module
+#############################################
+
+#
+# Enable Module
+#
+
+FlightLicense.Enable = 1
+
+
+#
+# Debug
+#
+# 0 = Disabled
+# 1 = Errors
+# 2 = Warnings
+# 3 = Information
+# 4 = Verbose
+#
+
+FlightLicense.DebugLevel = 4
+
+
+#
+# GM Mode
+#
+
+FlightLicense.GMOnly = 0
+FlightLicense.IgnoreCombatForGM = 1
+
+
+#
+# Continents
+#
+
+FlightLicense.AllowEasternKingdoms = 1
+FlightLicense.AllowKalimdor = 1
+
+
+#
+# Riding
+#
+
+FlightLicense.RequireExpertRiding = 1
+FlightLicense.RequireArtisanRiding = 0
+
+
+#
+# Combat Restrictions
+#
+
+FlightLicense.DisableInCombat = 1
+
+
+#
+# PvP Restrictions
+#
+
+FlightLicense.DisableBattlegrounds = 1
+FlightLicense.DisableArena = 1
+
+
+#
+# Indoor Restrictions
+#
+
+FlightLicense.AutoDismountIndoors = 1
+FlightLicense.DisableBuildings = 1
+FlightLicense.DisableCaverns = 1
+
+
+#
+# Speed
+#
+
+FlightLicense.EnableSpeedMultipliers = 1
+
+FlightLicense.Speed150 = 1.0
+FlightLicense.Speed280 = 1.0
+FlightLicense.Speed310 = 1.0
+
+
+#
+# Restricted Areas
+#
+# Example:
+# Stormwind Keep = 1519
+#
+
+FlightLicense.RestrictedAreas =
