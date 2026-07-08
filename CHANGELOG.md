@@ -1,2 +1,4 @@
-v0.1.0-Alpha1
-Initial module framework and .fml command
+# v0.1.0-alpha1
+
+- Initial module framework.
+- Added the `.fml` command.
